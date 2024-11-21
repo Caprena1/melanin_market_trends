@@ -39,11 +39,12 @@ Data Analysis Implementation:
 Developed a data analysis program utilizing pandas, matplotlib, and numpy. Executed an analysis project on 2 or more data pieces and produce comprehensive data visualizations using Matplotlib.
 
 1. Loading Data:
-  Read TWO csv data files
+    Read TWO csv data files
 2. Clean and operate on the data while combining them.
-  Cleaned data and performed a pandas merge with both data sets. Calculated new values based on the new data set. 
-    A. First, I had to remove title from the extended_cosmetics_products.csv so that headings would pull in on the first line. 
-    B. Before I can do a merge or join on 'Brand', I need to clean up data to make sure it's a one-to-one vs. a many-to-many. So I need to make sure the brand names on each list are unique.
-    C. Remove duplicates under product_name. 
+    Cleaned data and performed a pandas merge with both data sets. Calculated new values based on the new data set. 
+      A. First, I had to remove title from the extended_cosmetics_products.csv so that headings would pull in on the first line. 
+      B. Before I can do a merge or join on 'Brand', I need to clean up data to make sure it's a one-to-one vs. a many-to-many. So I need to make sure the brand names on each list are unique.
+      C. Remove duplicates under product_name. 
+3. Made 3 matplotlib visualizations to display my data 
 
 
