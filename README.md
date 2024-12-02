@@ -52,7 +52,7 @@ Developed a data analysis program utilizing pandas, matplotlib, and numpy. Execu
       C. HORIZONTAL BAR PLOT - This plot reveals: The product categories that attract the most customer attention, the relative popularity of categories among Black-owned brands, and the trends that could help businesses focus on high-engagement categories.
       D. BOX PLOT - This visualization highlights whether there are significant differences in the price range or median price between Black-owned and Non-Black-owned products.
 
-      /Users/xcastudent/melanin_market_trends/brown_faces.jpeg
-      
+      ![brown_faces](https://github.com/user-attachments/assets/94011a9d-f4fc-43b8-aaa9-2bfc194366fd)
+
 
 
