@@ -101,4 +101,5 @@ plt.title('Price Distribution by Ownership')
 plt.ylabel('Price (USD)')
 plt.show()
 
-
+melanin_newdata.to_csv('final_products_report.csv', index=False)
+print("Data has been saved to 'final_products_report.csv'.")
