@@ -22,9 +22,9 @@ columns_from_ec_df['BRAND'] = columns_from_ec_df['BRAND'].replace(['E.l.f', 'e.l
 melanin_newdata = pd.merge(columns_from_ec_df, columns_from_bp_df, how='left', left_on='BRAND', right_on='BRAND')
 melanin_newdata['BLACK_OWNED'] = melanin_newdata['BLACK_OWNED'].fillna(True)
 
-#IMAGES
-img_brownfaces = mpimg.imread('brown_faces.jpeg')
-img_threeladies = mpimg.imread('three_brown_ladies.jpeg')
+# #IMAGES
+# img_brownfaces = mpimg.imread('brown_faces.jpeg')
+# img_threeladies = mpimg.imread('three_brown_ladies.jpeg')
 
 #FILTERING THE DATA TO CALCULATE NEW VALUES
 black_owned = melanin_newdata[melanin_newdata['BLACK_OWNED'] == True]
