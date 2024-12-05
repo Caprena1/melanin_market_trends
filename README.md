@@ -1,7 +1,7 @@
 #Melanin Market Trends:
 *A data analysis project esearching the most popular hair and skin products on the market especially for women of color.*
 As a Data Analyst, I have been recently hired to working for a hair and skin products manufacturer that deals specifically with beauty products for women of color. I have been tasks with researching beauty trends and determining what brands and types of products are most popular and have the most sales.  
-![images/three_brown_ladies.jpeg](https://github.com/Caprena1/melanin_market_trends/tree/main/images/three_brown_ladies)
+![images/three_brown_ladies.jpeg](https://github.com/Caprena1/melanin_market_trends/blob/main/images/three_brown_ladies.jpeg)
 
 ##Essential Questions
 
