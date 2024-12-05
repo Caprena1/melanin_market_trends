@@ -55,7 +55,8 @@ Made 4 matplotlib visualizations to display my data and tell a story:
       C. HORIZONTAL BAR PLOT - This plot reveals: The product categories that attract the most customer attention, the relative popularity of categories among Black-owned brands, and the trends that could help businesses focus on high-engagement categories.
       D. GROUPED BAR CHART - This visualization highlights which black_owned companies produce the most revenue from greatest to least and sorts them by country. Added image inside plot.
 
-      ![images/brown_faces.jpeg](https://github.com/user-attachments/assets/94011a9d-f4fc-43b8-aaa9-2bfc194366fd)
+
+![images/brown_faces.jpeg](https://github.com/user-attachments/assets/94011a9d-f4fc-43b8-aaa9-2bfc194366fd)
 
 
 
