@@ -4,6 +4,8 @@ import matplotlib.image as mpimg
 plt.style.use('dark_background')
 import numpy as np
 
+#IMAGES
+
 extended_cosmetics_df = pd.read_csv('extended_cosmetics_products.csv')
 beauty_products_df = pd.read_csv('beauty_products.csv')
 
