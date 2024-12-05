@@ -12,7 +12,6 @@ As a Data Analyst, I have been recently hired to working for a hair and skin pro
 
 ##Gathering the Data
 The data used in this project came from these resources:
-
 1. extended_cosmetics_products.csv
 2. beauty_products.csv
 
