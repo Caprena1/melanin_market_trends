@@ -5,7 +5,7 @@ As a Data Analyst, I have been recently hired to work for a hair and skin produc
 
 ##Essential Questions
 
-1. What are the top-selling hair and skin products and brands within Black beauty?
+1. What are the top-selling hair and skin products and brands among Black beauty companies?
 2. Which brands have the highest customer ratings and reviews?
 3. Which specific product types are the most popular?
 4. What are the revenue differences between black and non-black products?
